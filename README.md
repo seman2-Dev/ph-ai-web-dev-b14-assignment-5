@@ -1,6 +1,5 @@
 <div align="center">
 
-  <!-- Project Logo / Banner -->
   <h1 align="center">🚀 DevStack</h1>
 
   <p align="center">
@@ -8,8 +7,6 @@
 An interactive web app to explore, select, and build your custom developer tech stack with real-time UI feedback.
 </strong>
   </p>
-
-  <!-- Badges -->
   <p align="center">
     <img src="https://img.shields.io/github/stars/your-username/your-repo-name?style=for-the-badge&color=emerald" alt="stars" />
     <img src="https://img.shields.io/github/forks/your-username/your-repo-name?style=for-the-badge&color=emerald" alt="forks" />
