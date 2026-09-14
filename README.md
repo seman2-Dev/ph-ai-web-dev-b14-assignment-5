@@ -4,7 +4,9 @@
   <h1 align="center">🚀 DevStack</h1>
 
   <p align="center">
-    <strong>[A short, catchy one-line description of what your project does.]</strong>
+    <strong>
+An interactive web app to explore, select, and build your custom developer tech stack with real-time UI feedback.
+</strong>
   </p>
 
   <!-- Badges -->
@@ -20,7 +22,7 @@
 
 ## 📝 About The Project
 
-[Write a little detail description here about your project. Explain the core idea, why you built it, and what problem it solves for developers or users.]
+Dev Stack Builder is a responsive, modern web application designed to help developers seamlessly discover and assemble their ideal software stack. Built with React, Vite, Tailwind CSS, and TypeScript, it allows users to explore various technologies across frontend, backend, database, and tooling categories. With real-time state management and instant toast notifications, users can interactively select, manage, and visualize their stack with an intuitive mobile-friendly interface.
 
 ---
 
@@ -43,17 +45,6 @@ This project is built using the following modern tools and technologies:
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Questions and Answer about "React"
 
-To get a local copy up and running, follow these simple steps:
 
-### Prerequisites
-
-Make sure you have Node.js installed on your machine.
-- npm: `npm install -g npm`
-
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
